@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: bd62adb8-a048-4bc9-ad4a-799e95859c4b
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/T1fff/Mini-Proyecto-Riesgo-Abandono-Universitarios
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
